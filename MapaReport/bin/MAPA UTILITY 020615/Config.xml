@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!--System Generated File-->
+<Connection Name="Server">
+  <Source>.</Source>
+  <Database>MAPA</Database>
+  <User>sa</User>
+  <Pass>admin</Pass>
+  <yearStart>2010</yearStart>
+  <yearEnd>2020</yearEnd>
+ </Connection>
